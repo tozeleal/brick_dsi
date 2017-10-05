@@ -13,3 +13,7 @@ If you want to improve this little app you are free to do it.
 Me: For coding all this stuff xD
 Senpai: For this app request
 Gericom, elecross and cool people from the NDS(i)Brew Discord server: Helping with coding and compiling this app
+
+#Donations:
+Well if you want to help me to do more random DS projects feel free to donate me and sugest me to make a random app.
+https://streamlabs.com/tozeleal1
